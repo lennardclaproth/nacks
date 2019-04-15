@@ -1,0 +1,12 @@
+C:\Users\Lennard Claproth\src\nacks\bin\Debug\netcoreapp2.1\nacks.deps.json
+C:\Users\Lennard Claproth\src\nacks\bin\Debug\netcoreapp2.1\nacks.runtimeconfig.json
+C:\Users\Lennard Claproth\src\nacks\bin\Debug\netcoreapp2.1\nacks.runtimeconfig.dev.json
+C:\Users\Lennard Claproth\src\nacks\bin\Debug\netcoreapp2.1\nacks.dll
+C:\Users\Lennard Claproth\src\nacks\bin\Debug\netcoreapp2.1\nacks.pdb
+C:\Users\Lennard Claproth\src\nacks\obj\Debug\netcoreapp2.1\nacks.csprojAssemblyReference.cache
+C:\Users\Lennard Claproth\src\nacks\obj\Debug\netcoreapp2.1\nacks.csproj.CoreCompileInputs.cache
+C:\Users\Lennard Claproth\src\nacks\obj\Debug\netcoreapp2.1\nacks.AssemblyInfoInputs.cache
+C:\Users\Lennard Claproth\src\nacks\obj\Debug\netcoreapp2.1\nacks.AssemblyInfo.cs
+C:\Users\Lennard Claproth\src\nacks\obj\Debug\netcoreapp2.1\nacks.dll
+C:\Users\Lennard Claproth\src\nacks\obj\Debug\netcoreapp2.1\nacks.pdb
+C:\Users\Lennard Claproth\src\nacks\bin\Debug\netcoreapp2.1\WinSCP.exe

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "9d250af0fd4a67db33b858e35cf0a973eabad0a1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "nacks/1.0.0": {
+        "dependencies": {
+          "WinSCP": "5.14.5-rc"
+        },
+        "runtime": {
+          "nacks.dll": {}
+        }
+      },
+      "WinSCP/5.14.5-rc": {
+        "runtime": {
+          "lib/netstandard/WinSCPnet.dll": {
+            "assemblyVersion": "1.6.2.9281",
+            "fileVersion": "1.6.2.9281"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinSCP/5.14.5-rc": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A2ZHBcwdZbdur22kKrWaz7AMfr1CGkCSzjwz3VqqT3d7LtInQwEFc2dcz8aCNo5hkq8gL2TBwV/ht302u/Fapg==",
+      "path": "winscp/5.14.5-rc",
+      "hashPath": "winscp.5.14.5-rc.nupkg.sha512"
+    }
+  }
+}
